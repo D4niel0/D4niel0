@@ -1,8 +1,6 @@
 <h1 align="center">Hi!! I'm Dani Aguilar</h1>
 <h3 align="center">Since I was a child I have been passionate about design, imagination is my forte. At one point in my life I decided to change my computer specialty and give it all for frontend development, which I now enjoy with passion.</h3>
 
-- 🔭 I’m currently working on **Pakke México, from Spain**
-
 - 🌱 I’m currently learning **Angular, every day! I also dedicate time to continue training in new technologies.**
 
 - 💬 Ask me about **Angular, HTML, TypeScript, CSS... If it is in my power, I will help you!**
